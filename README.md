@@ -1,4 +1,4 @@
-# IAP Communities
+# IAP Communities: A Case of Strathmore University
 
 IAP Communities is a web application that aims to solve the information overload of the IAP Univerisity Emails. In the application, users will:
 
@@ -7,6 +7,8 @@ IAP Communities is a web application that aims to solve the information overload
 - interact with posts in the general section by liking, disliking or commenting on them.
 - find available classes around the University using the "Class Finder" feature of the application.
 - follow various categories of their choosing.
+
+For demonstration purposes, IAP Communities will be used in the context of Strathmore University.
 
 This project is currently under development.
 
